@@ -1,1 +1,2 @@
 # CS3003-Final_Project-Library-Manager
+This project implements a Library Management System using Object-Oriented Programming (OOP) in C++. It enables users to add book details and associate a borrower, such as a student, with each book. The system allows displaying all stored books along with their respective borrowers, searching for a specific book by its ID, and updating the price of a book by its ID.
